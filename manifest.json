@@ -1,0 +1,18 @@
+{
+  "appID": "a28db7d71ab14ca8becf7c82e95ba8c3",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.5.3"
+  },
+  "shortName": "Swapbloks (tm)",
+  "studio": {
+    "domain": "pahzy.rynban.net",
+    "name": "My Fancy Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "Swapbloks",
+  "icon": "resources/icons/SpellBoundempty.png"
+}
